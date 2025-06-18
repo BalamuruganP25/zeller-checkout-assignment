@@ -21,38 +21,25 @@ It demonstrates flexible pricing rules and a simple, extensible architecture.
 
 ## How to Run This Project
 
-1. **Clone the repository** (if you haven't already):
-
-   ```sh
-   git clone <your-repo-url>
-   cd zeller-checkout-assignment
-   ```
-
-2. **Install dependencies** (if needed):
-
-   ```sh
-   go mod tidy
-   ```
-
-3. **Run the main program:**
+1. **Run the main program:**
 
    ```sh
    make run
    ```
 
-4. **Run the tests:**
+2. **Run the tests:**
 
    ```sh
    make test
    ```
 
-5. **Build the binary:**
+3. **Build the binary:**
 
    ```sh
    make build
    ```
 
-6. **Clean up build artifacts:**
+4. **Clean up build artifacts:**
 
    ```sh
    make clean
